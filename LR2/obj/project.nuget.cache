@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "39UqCrthRl4=",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\Education\\KPI\\4Term\\AMO\\Codes\\LR2\\LR2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\oxyplot.core\\2.2.0\\oxyplot.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\oxyplot.wpf\\2.2.0\\oxyplot.wpf.2.2.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\oxyplot.wpf.shared\\2.2.0\\oxyplot.wpf.shared.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
