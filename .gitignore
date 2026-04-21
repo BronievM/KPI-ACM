@@ -1,2 +1,7 @@
 .vs/
 .idea/
+[Bb]in/
+[Oo]bj/
+*.user
+*.pdf
+.vs/

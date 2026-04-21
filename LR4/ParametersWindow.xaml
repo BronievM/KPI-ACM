@@ -1,0 +1,21 @@
+﻿<Window x:Class="LR4.ParametersWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LR4"
+        mc:Ignorable="d"
+       Title="Налаштування параметрів" Height="250" Width="300" WindowStartupLocation="CenterOwner" ResizeMode="NoResize">
+    <StackPanel Margin="15">
+        <TextBlock Text="Ліва межа (A):" Margin="0,0,0,5"/>
+        <TextBox x:Name="txtA" Text="1" Margin="0,0,0,10" Padding="2"/>
+
+        <TextBlock Text="Права межа (B):" Margin="0,0,0,5"/>
+        <TextBox x:Name="txtB" Text="2" Margin="0,0,0,10" Padding="2"/>
+
+        <TextBlock Text="Точність (ε):" Margin="0,0,0,5"/>
+        <TextBox x:Name="txtEpsilon" Text="0,0001" Margin="0,0,0,15" Padding="2"/>
+
+        <Button Content="Обчислити" Click="BtnCompute_Click" Padding="5" IsDefault="True"/>
+    </StackPanel>
+</Window>

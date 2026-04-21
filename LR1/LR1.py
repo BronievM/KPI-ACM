@@ -4,7 +4,7 @@ from PIL import Image, ImageTk
 import random
 import os
 from MathLogic import CalculatorLogic
-
+import utils
 
 class MainWindow(tk.Tk):
     def __init__(self):

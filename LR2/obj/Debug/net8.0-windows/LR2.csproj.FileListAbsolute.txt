@@ -52,3 +52,4 @@ D:\Documents\Education\KPI\4Term\AMO\Codes\LR2\obj\Debug\net8.0-windows\refint\L
 D:\Documents\Education\KPI\4Term\AMO\Codes\LR2\obj\Debug\net8.0-windows\LR2.pdb
 D:\Documents\Education\KPI\4Term\AMO\Codes\LR2\obj\Debug\net8.0-windows\LR2.genruntimeconfig.cache
 D:\Documents\Education\KPI\4Term\AMO\Codes\LR2\obj\Debug\net8.0-windows\ref\LR2.dll
+D:\Documents\Education\KPI\4Term\AMO\Codes\LR2\obj\Debug\net8.0-windows\LR2.sourcelink.json
