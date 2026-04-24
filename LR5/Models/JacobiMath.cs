@@ -62,6 +62,11 @@
                     if (d > delta) delta = d;
                 }
 
+                if (double.IsInfinity(delta) || double.IsNaN(delta))
+                {
+                    break;
+                }
+
                 steps.Add(new IterationStep {Iteration = iteration + 1,X = (double[])nextX.Clone(), Delta = delta });
 
                 currentX = nextX;
